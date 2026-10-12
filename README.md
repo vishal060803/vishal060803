@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Visakaran%20Kandhakumar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Robotics&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Visakaran%20Kandhakumar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic-AI&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Solutions;Exploring+Generative+AI+%26+LLMs;Developing+Computer+Vision+Systems;Engineering+Autonomous+Robots;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
 
@@ -222,7 +222,7 @@ Karpagam College of Engineering, Coimbatore
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/visakaran-kandhakumar-06080c/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -230,7 +230,7 @@ Karpagam College of Engineering, Coimbatore
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/vishal060803">
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
