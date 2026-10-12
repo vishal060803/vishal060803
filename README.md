@@ -23,24 +23,24 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Visakaran Kandhakumar
-role: AI/ML Engineer
-education: B.Tech in Artificial Intelligence and Data Science
-location: Tamil Nadu, India
+Name: Visakaran Kandhakumar
+Role: AI/ML Engineer
+Education: B.Tech in Artificial Intelligence and Data Science
+Location: Tamil Nadu, India
 
-focus:
+Focus:
   - Machine Learning & Deep Learning
   - Generative AI, LLMs & AI Agents
   - Computer Vision & Object Detection
   - Robotics, ROS 2 & Autonomous Navigation
 
-currently_exploring:
+Currently_Exploring:
   - Retrieval-Augmented Generation (RAG)
   - AI Agent Development
   - Autonomous Robotics
   - Intelligent Real-Time Systems
 
-mindset: "Learn → Build → Experiment → Improve"
+Mindset: "Learn → Build → Experiment → Improve"
 ```
 
 I'm an AI/ML Engineer passionate about building intelligent systems that solve real-world problems. My interests span machine learning, deep learning, Generative AI, computer vision, and autonomous robotics.
@@ -57,6 +57,8 @@ I enjoy transforming ideas into practical projects, from real-time threat detect
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
+
+`Python` `SQL`
 
 ### Machine Learning & Deep Learning
 
@@ -164,21 +166,21 @@ Artificial Intelligence & Data Science
 ## 🎯 Current Focus
 
 ```yaml
-learning:
+Learning:
   - Generative AI and LLM Applications
   - Retrieval-Augmented Generation
   - AI Agent Development
 
-building:
+Building:
   - Intelligent AI/ML Applications
   - Autonomous Robotics Systems
 
-exploring:
+Exploring:
   - Real-Time Computer Vision
   - AI-Powered Automation
   - Robotics and Autonomous Navigation
 
-career_goal:
+Career_goal:
   - Grow as an AI/ML Engineer
   - Build Practical and Scalable AI Solutions
 ```
